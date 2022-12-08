@@ -11,7 +11,7 @@
 
 - 🌸 How to reach me **My Discord Vermeil#5864**
 
-- ☄️ I Also Play osu! :https://osu.ppy.sh/users/L%20DT 
+- ☄️ I Also Play osu! : **https://osu.ppy.sh/users/L%20DT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
