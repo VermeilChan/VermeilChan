@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vermeilosu" target="blank"><img src="https://img.shields.io/twitter/follow/vermeilosu?logo=twitter&style=for-the-badge" alt="vermeilosu" /></a> </p>
 
-- 🌱 I’m currently learning **Java & Python**
+- ✨ I’m currently learning **Java & Python**
 
-- 📫 How to reach me **My Discord Vermeil#5864**
+- 🌸 How to reach me **My Discord Vermeil#5864**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
