@@ -1,14 +1,8 @@
 - 🔭 I’m currently working on nothing rn  
-  
-
 - 🌱 I’m currently learning java and python  
-  
-
-- ⚡ Fun fact: I'm the worst osu! player  
-  
+- ⚡ Fun fact: I'm the worst osu! playeR 
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -21,7 +15,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -38,20 +31,16 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VermeilChan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Recent Blog Posts  
   
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r64nyxu26h2227sqznt44icji4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true" /></div>  
@@ -62,9 +51,7 @@
 <img src="https://komarev.com/ghpvc/?username=VermeilChan&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
-
 
 <br />
 
