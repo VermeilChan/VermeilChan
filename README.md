@@ -1,91 +1,27 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+# 💫 About Me:
+I'm👋Vermeil.<br>I'm 15.<br>I'm👦boy.<br>I'm learning ♨️Java and 🐍Python.<br>I also love playing 🎵rhythm 🎮video games.
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/UTKpv6BQNW) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_Vermeil_) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vermeilsimp) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Vermeilosu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCmUZzOebtUhqiqUq9EHxzqg) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VermeilChan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VermeilChan&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VermeilChan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### I’m Currently Learning  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</td><td valign="top" width="33%">
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=VermeilChan&icon=7&color=5)](https://visitcount.itsvg.in)
 
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/VermeilChan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@Vermeilosu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@VermeilChan" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=VermeilChan&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r64nyxu26h2227sqznt44icji4&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VermeilChan&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
