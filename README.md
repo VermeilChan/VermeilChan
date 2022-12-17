@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on nothing rn  
 - 🌱 I’m currently learning java and python  
-- ⚡ Fun fact: I'm the worst osu! playeR 
+- ⚡ Fun fact: I'm the worst osu! player
 
 <br/>  
 
