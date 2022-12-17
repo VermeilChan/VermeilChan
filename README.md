@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vermeil</h1>
-<h3 align="center">727 Guy</h3>
+<h3 align="center">50m Midas Staff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermeilchan&label=Profile%20views&color=0e75b6&style=flat" alt="vermeilchan" /> </p>
 
