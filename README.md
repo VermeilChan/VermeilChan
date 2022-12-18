@@ -8,11 +8,14 @@
   
 
 <div align="center">https://discord.gg/f2K4aSpG4F</div>  
-  
+ 
+ 
+<div align="center">:) Trophies</div>
+
 
 <div align="center"></div>  
   
-<br/>  :) Trophies
+<br/>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
