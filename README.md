@@ -28,7 +28,7 @@
 </div>  
   
 
-<br/>"center"[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]<div align="center"></div>(https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
