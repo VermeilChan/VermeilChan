@@ -7,3 +7,5 @@ I'm Vermeil<br>I'm 15<br>I'm a boy<br>I'm learning java and python<br>I also pla
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
