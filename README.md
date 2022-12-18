@@ -15,18 +15,8 @@
 <br/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Connect with me  
-<div align="center">
-<a href="https://www.youtube.com/user/@VermeilChan" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/@Vermeilosu
-" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+ 
 </div>  
-  
   
 <br/>  
 
