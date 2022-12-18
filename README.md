@@ -28,6 +28,8 @@
 </div>  
   
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>  
 
 
