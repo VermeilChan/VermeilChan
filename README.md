@@ -12,10 +12,11 @@
 
 <div align="center"></div>  
   
-<br/>  
+<br/>  :) Trophies
 
-:) Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+ 
  
 </div>  
   
