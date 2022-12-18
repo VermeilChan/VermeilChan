@@ -1,8 +1,8 @@
 <h2 align="center"> > Chikatto Chika Chika SS < </h2>
  
-  <p align="center"> i need a <s>hyperion</s> </p>
+  <p align="center"> I need a <s>Terminator</s> </p>
   
-  <p align="center"> i love booba </p>
+  <p align="center"> simp for me </p>
 
   <p align="center"> Cringe Trophies: </p>
  
