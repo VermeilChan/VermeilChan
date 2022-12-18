@@ -4,7 +4,7 @@
 <div align="center">what i'm doing with my life </div>  
   
 
-<div align="center">simp for me.</div>  
+<div align="center">simp for me</div>  
   
 
 <div align="center">https://discord.gg/f2K4aSpG4F</div>  
