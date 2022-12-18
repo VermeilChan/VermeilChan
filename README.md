@@ -2,7 +2,7 @@
  
   <p align="center"> I need a <s>Terminator</s> </p>
   
-  <p align="center"> simp for me </p>
+  <p align="center"> idk </p>
 
   <p align="center"> Cringe Trophies: </p>
  
