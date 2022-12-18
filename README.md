@@ -12,6 +12,8 @@ I'm Vermeil<br>I'm 15<br>I'm a boy<br>I'm learning java and python<br>I also pla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VermeilChan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VermeilChan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=VermeilChan&icon=7&color=5)](https://visitcount.itsvg.in)
 
