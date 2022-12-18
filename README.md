@@ -1,17 +1,37 @@
-# 💫 About Me:
-I'm Vermeil<br>I'm 15<br>I'm a boy<br>I'm learning java and python<br>I also play video games like : osu! & Brawlhalla & Minecraft<br>My Discord : Vermeil#5864>
+### <div align="center">Chikatto Chika Chika SS</div>  
+  
+
+<div align="center">what i'm doing with my life </div>  
+  
+
+<div align="center">simp for me.</div>  
+  
+
+<div align="center">https://discord.gg/f2K4aSpG4F</div>  
+  
+
+<div align="center"></div>  
+  
+
+<br/>  
 
 
+## Connect with me  
+<div align="center">
+<a href="https://www.youtube.com/user/@VermeilChan" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/@Vermeilosu
+" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/pvdQGns5X5) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Vermeilosu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmUZzOebtUhqiqUq9EHxzqg) 
+<br/>  
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31r64nyxu26h2227sqznt44icji4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>
+<br />
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-Cringe Trophies:
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
