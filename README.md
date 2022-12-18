@@ -14,7 +14,8 @@
   
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 :) Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rongmario&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
  
 </div>  
   
