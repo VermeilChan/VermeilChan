@@ -1,6 +1,6 @@
 <h2 align="center"> > 727 :) < </h2>
  
-  <p align="center"> I need a <s>Terminator</s> </p>
+  <p align="center"> 4* Maps :) </p>
   
   <p align="center"> People you worship, simps for me. </p>
 
