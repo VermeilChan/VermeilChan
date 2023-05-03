@@ -20,5 +20,3 @@ Hi, I'm Vermeil a 15-year-old boy who loves anime and gaming. When I'm not playi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VermeilChan&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
