@@ -1,4 +1,4 @@
-<img align="right" height="500" src="https://i.imgur.com/7qKYUau.jpg"  />
+<img align="right" height="390" src="https://i.imgur.com/19sZwyc.jpeg"  />
 
 ###
 
@@ -20,12 +20,12 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.imgur.com/nSZyF3J.gif"  />
+  <img height="300" src="https://i.imgur.com/920CE2m.jpg"  />
 </div>
 
 ###
 
-<h1 align="center">Hello! 👋</h1>
+<h1 align="center">CAT 🐱</h1>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Vermeil from Morocco.<br><br>📚 I'm currently learning Java and Python.<br>⚡ In my free time, I watch anime or play games.</p>
+<h3 align="left">I'm Vermeil from Morocco.<br><br>📚 I'm currently learning Java and Python.<br>⚡ In my free time, I watch anime or play games.</h3>
 
 ###
 
@@ -53,22 +53,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VermeilChan&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VermeilChan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VermeilChan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31r64nyxu26h2227sqznt44icji4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VermeilChan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VermeilChan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=VermeilChan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
