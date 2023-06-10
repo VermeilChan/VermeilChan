@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">CAT 🐱</h1>
+<h1 align="center">Cat🐱</h1>
 
 ###
 
