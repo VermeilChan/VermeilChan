@@ -46,6 +46,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VermeilChan-ma&theme=onedark-frame=true-no-bg=false-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VermeilChan&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VermeilChan&theme=jolly&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VermeilChan&theme=jolly&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=VermeilChan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VermeilChan&icon=0&color=6" alt="Profile Visits" />
+</p>
