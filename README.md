@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">I'm Vermeil from Morocco.<br><br>📚 I'm currently learning Java and Python.<br>⚡ In my free time, I watch anime or play games.</h3>
+<h3 align="left"><br>📚 I'm currently learning Java and Python.<br>⚡ In my free time, I watch anime or play games.</h3>
 
 ###
 
