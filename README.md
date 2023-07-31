@@ -45,3 +45,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VermeilChan-ma&theme=onedark-frame=true-no-bg=false-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+</div>
