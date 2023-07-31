@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vermeil and I'm a beginner Minecraft Modder & Game Developer.</p>
+<h4 align="left">My name is Vermeil and I'm a beginner Minecraft Modder & Game Developer.</h4>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java & C#<br>🎯 Goals: Mastering Java & C#<br>🐈 Cats: Yes cats 😼</p>
+<h4 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java & C#<br>🎯 Goals: Mastering Java & C#<br>🐈 Cats: Yes cats 😼</h4>
 
 ###
 
@@ -27,9 +27,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="100" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="100" alt="csharp logo"  />
 </div>
 
 ###
@@ -37,6 +37,8 @@
 <h2 align="left">Le Metal Slug</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://i.imgur.com/rxboDsL.gif"  />
