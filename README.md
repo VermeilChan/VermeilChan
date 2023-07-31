@@ -32,8 +32,12 @@
 
 ###
 
+<h2 align="left">Le Metal Slug</h2>
+
+###
+
 <div align="center">
-  <img height="200" src="https://i.imgur.com/k5SyHiV.gif"  />
+  <img height="200" src="https://i.imgur.com/rxboDsL.gif"  />
 </div>
 
 ###
