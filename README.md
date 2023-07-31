@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://www.youtube.com/@VermeilChan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <a href="https://discord.gg/jQSu2345dd" target="_blank">
+  <a href="https://discord.gg/JuazjaV3P6" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.twitch.tv/vermeil_chan" target="_blank">
