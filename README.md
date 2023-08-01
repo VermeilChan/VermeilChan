@@ -65,9 +65,3 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=VermeilChan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VermeilChan&icon=0&color=6" alt="Profile Visits" />
-</p>
