@@ -65,3 +65,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=VermeilChan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31r64nyxu26h2227sqznt44icji4)
