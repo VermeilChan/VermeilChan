@@ -9,12 +9,14 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgur.com/rxboDsL.gif"  />
+<div align="left">
+</div>
 
 ###
 
-<div align="left">
-</div>
+<br clear="both">
+
+<img align="left" height="100" src="https://i.imgur.com/rxboDsL.gif"  />
 
 ###
 
