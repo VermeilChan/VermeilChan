@@ -28,14 +28,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 📚 I'm currently learning: C++ for game development and Java for Minecraft mods or plugins.<br>- ⚡ In my free time I: Enjoy playing games and watching anime.</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
