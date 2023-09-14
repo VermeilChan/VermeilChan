@@ -42,9 +42,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="40" alt="jetbrains logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
 
 # 📊 GitHub Stats:
