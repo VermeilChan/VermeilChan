@@ -46,3 +46,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=VermeilChan&theme=dark&hide_border=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
