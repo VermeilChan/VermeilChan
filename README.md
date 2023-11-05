@@ -59,3 +59,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=VermeilChan&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ###
+
+<img src="github-user-contribution.svg" alt="Snake animation" />
+
+###
