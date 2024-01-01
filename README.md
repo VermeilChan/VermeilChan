@@ -6,10 +6,10 @@ Student
 
 I love cats
 
-* 🌍  I'm based in Marrakech
+* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [VermeilChan@proton.me](mailto:VermeilChan@proton.me)
 * 🚀  I'm currently working on [MetalSlugFontReborn](http://Vermeil.pythonanywhere.com)
-* 🧠  I'm learning Python, C++/C#, Kotlin
+* 🧠  I'm learning Python, C++/C#, Lua
 * ⚡  I love silly cats
 
 ### Skills
