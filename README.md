@@ -1,10 +1,8 @@
 Hi 👋 My name is VermeilChan
 ============================
 
-Student
--------
-
-I love cats :)
+I love cats :)<br>
+useless piece of shit
 
 ### Skills
 
