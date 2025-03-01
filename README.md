@@ -1,7 +1,5 @@
-Hi 👋 My name is VermeilChan
+Hi 👋 My name is 0xE817F3CD
 ============================
-
-I love aot<br>
 
 ### Tools I use
 
